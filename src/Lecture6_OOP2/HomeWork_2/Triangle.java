@@ -1,4 +1,4 @@
-package Lecture5_OOP2.HomeWork_2;
+package Lecture6_OOP2.HomeWork_2;
 
 public class Triangle extends Figure {
 

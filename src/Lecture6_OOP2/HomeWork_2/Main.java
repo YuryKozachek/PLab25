@@ -1,4 +1,4 @@
-package Lecture5_OOP2.HomeWork_2;
+package Lecture6_OOP2.HomeWork_2;
 
 public class Main {
     public static void main(String[] args) {
