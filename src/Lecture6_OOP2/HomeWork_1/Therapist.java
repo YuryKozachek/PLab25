@@ -1,4 +1,4 @@
-package Lecture5_OOP2.HomeWork_1;
+package Lecture6_OOP2.HomeWork_1;
 
 public class Therapist implements Doctor {
     @Override
